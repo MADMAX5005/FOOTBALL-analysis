@@ -1,0 +1,361 @@
+player_id,player_name,age,nationality,team,position,season,matches_played,minutes_played,goals,assists,shots,shots_on_target,passes,pass_accuracy,dribbles,tackles,yellow_cards,red_cards,rating
+1,Noah Romero,32,Nigerian,FC Zenith,GK,2022-23,17,1378,0,1,0,0,616,0.705,3,25,2,1,6.24
+2,Kenji Nguyen,24,Belgian,FC Zenith,GK,2022-23,16,902,0,1,0,0,346,0.757,1,19,6,0,6.14
+3,Henri Castro,28,Nigerian,FC Zenith,DEF,2022-23,32,2443,2,7,24,10,511,0.893,20,37,5,1,6.01
+4,Stefan Falcao,21,Dutch,FC Zenith,DEF,2022-23,35,2551,1,3,5,2,635,0.784,22,57,3,0,6.43
+5,Stefan Müller,19,Dutch,FC Zenith,DEF,2022-23,20,1133,2,5,18,10,711,0.829,20,58,4,1,6.0
+6,Takuya Kane,23,Spanish,FC Zenith,DEF,2022-23,14,1148,1,2,6,1,509,0.888,22,88,4,0,6.4
+7,Zach Nguyen,18,Senegalese,FC Zenith,DEF,2022-23,34,2159,5,0,22,12,738,0.747,25,55,6,0,6.48
+8,Cian Reyes,29,Portuguese,FC Zenith,DEF,2022-23,33,2716,0,4,2,1,604,0.795,5,50,7,0,5.34
+9,Artur Vargas,27,Senegalese,FC Zenith,MID,2022-23,17,1294,5,16,14,10,958,0.863,51,56,1,1,7.07
+10,Zach Becker,32,Mexican,FC Zenith,MID,2022-23,30,1683,14,10,59,14,750,0.821,18,20,0,1,7.49
+11,Sven Herrera,29,Argentine,FC Zenith,MID,2022-23,13,794,8,8,35,33,861,0.851,17,69,3,0,7.41
+12,Victor Kroos,20,German,FC Zenith,MID,2022-23,33,2922,14,15,70,30,811,0.852,37,34,4,0,8.02
+13,Dante Santos,26,Argentine,FC Zenith,MID,2022-23,25,1917,3,8,47,20,985,0.863,65,53,3,0,6.71
+14,Emil Dubois,31,Spanish,FC Zenith,MID,2022-23,17,1109,12,15,66,21,750,0.885,43,23,1,1,7.5
+15,Cian García,19,Brazilian,FC Zenith,FWD,2022-23,28,1880,30,4,117,34,233,0.757,21,17,5,0,7.01
+16,Eric Zola,24,Senegalese,FC Zenith,FWD,2022-23,22,1227,21,9,43,43,535,0.653,73,20,7,1,5.54
+17,Kenji Zola,20,Mexican,FC Zenith,FWD,2022-23,19,1450,27,3,93,53,292,0.834,80,30,2,0,7.82
+18,Luis Cruz,35,Dutch,FC Zenith,FWD,2022-23,32,1683,30,10,90,51,525,0.647,60,16,1,1,7.34
+19,Mohamed Costa,23,Italian,Athletic United,GK,2022-23,13,660,1,0,1,1,372,0.666,2,19,7,1,5.36
+20,Adam Dubois,35,Belgian,Athletic United,GK,2022-23,22,1901,0,0,1,1,556,0.664,2,24,6,0,5.04
+21,Takuya Alves,27,Mexican,Athletic United,DEF,2022-23,35,2338,1,3,24,8,885,0.855,18,88,7,0,5.84
+22,Alex Andersen,33,Colombian,Athletic United,DEF,2022-23,18,1366,5,2,19,8,773,0.801,7,80,6,1,6.15
+23,Kenji Andersen,25,German,Athletic United,DEF,2022-23,36,2814,3,1,9,3,772,0.758,30,73,0,0,7.51
+24,Toni Vieira,35,Colombian,Athletic United,DEF,2022-23,24,1721,3,1,5,3,608,0.806,8,76,5,1,5.56
+25,Hugo Petit,30,Portuguese,Athletic United,DEF,2022-23,26,2042,0,3,20,9,600,0.785,30,63,2,1,5.49
+26,Owen Novak,30,English,Athletic United,DEF,2022-23,24,1436,0,0,22,5,776,0.748,27,77,3,1,5.0
+27,Matteo Santos,26,Dutch,Athletic United,MID,2022-23,22,1077,14,16,37,22,946,0.788,45,59,4,1,7.36
+28,Luca Scholes,25,Dutch,Athletic United,MID,2022-23,35,1751,2,5,37,12,703,0.781,68,68,5,1,5.09
+29,Finn Herrera,34,Dutch,Athletic United,MID,2022-23,17,1276,9,3,24,19,1091,0.851,59,63,4,1,5.99
+30,Sam Neves,18,Nigerian,Athletic United,MID,2022-23,37,2203,3,5,42,22,812,0.859,15,45,5,1,5.06
+31,David Keane,24,Belgian,Athletic United,MID,2022-23,17,1209,11,16,46,23,1190,0.869,20,69,7,1,6.53
+32,Ethan Mota,24,Portuguese,Athletic United,MID,2022-23,16,765,12,3,24,19,829,0.793,51,28,0,0,7.72
+33,Kenji Martin,19,English,Athletic United,FWD,2022-23,22,1458,8,7,54,37,294,0.824,79,16,1,1,6.14
+34,Koen Thiago,22,French,Athletic United,FWD,2022-23,32,2492,11,2,95,45,234,0.824,41,12,2,0,6.49
+35,Takuya Salah,20,English,Athletic United,FWD,2022-23,16,865,5,5,56,9,538,0.766,45,8,0,0,6.71
+36,Sam Pinto,32,Mexican,Athletic United,FWD,2022-23,21,1315,10,8,58,49,213,0.818,80,10,0,0,7.31
+37,James Silva,22,Belgian,City Rovers,GK,2022-23,26,1845,0,0,2,0,608,0.804,2,11,2,1,5.0
+38,Elias Andersen,24,Nigerian,City Rovers,GK,2022-23,17,1019,0,1,1,1,314,0.799,0,24,5,0,6.55
+39,Diego Novak,32,Belgian,City Rovers,DEF,2022-23,15,1348,0,0,6,2,788,0.726,26,31,1,0,5.82
+40,Adam Xavi,30,French,City Rovers,DEF,2022-23,21,1268,5,4,19,8,864,0.743,28,44,4,1,6.58
+41,Kevin Guerreiro,34,Brazilian,City Rovers,DEF,2022-23,16,1070,3,3,15,4,594,0.828,8,65,1,0,7.62
+42,Kevin Dubois,22,Argentine,City Rovers,DEF,2022-23,16,1315,5,1,12,10,633,0.792,19,55,5,0,6.91
+43,Noah Vieira,32,Nigerian,City Rovers,DEF,2022-23,23,1978,5,1,5,5,610,0.851,15,41,3,1,6.43
+44,Owen Cruz,30,Argentine,City Rovers,DEF,2022-23,27,2061,4,7,13,4,591,0.787,13,83,2,0,8.44
+45,Ronan Herrera,19,Belgian,City Rovers,MID,2022-23,25,2176,6,12,32,6,1001,0.815,40,65,3,1,6.49
+46,Rui Kroos,23,Senegalese,City Rovers,MID,2022-23,34,2938,6,8,60,13,1098,0.84,23,28,1,1,6.33
+47,Eric Scholes,29,Brazilian,City Rovers,MID,2022-23,36,1627,9,4,61,33,789,0.918,16,26,1,0,7.35
+48,Leon Johnson,24,Mexican,City Rovers,MID,2022-23,13,1122,11,12,54,29,881,0.806,21,25,4,1,6.43
+49,Nico Silva,30,Portuguese,City Rovers,MID,2022-23,12,735,11,7,36,28,1168,0.857,31,39,0,0,8.07
+50,James Guerreiro,23,Dutch,City Rovers,MID,2022-23,31,1973,12,16,51,28,1026,0.869,27,49,6,0,7.58
+51,Tom García,22,English,City Rovers,FWD,2022-23,35,2989,19,13,112,48,343,0.744,37,5,5,0,6.87
+52,Dante Keane,29,Dutch,City Rovers,FWD,2022-23,26,1787,24,12,117,27,584,0.694,74,11,2,1,6.9
+53,Sergio Iniesta,26,Brazilian,City Rovers,FWD,2022-23,21,1200,16,2,116,38,254,0.654,69,11,4,1,5.18
+54,Artur Roberto,29,Mexican,City Rovers,FWD,2022-23,12,837,5,8,106,12,253,0.695,56,7,2,0,6.39
+55,Noah Costa,20,English,Dynamo FC,GK,2022-23,26,2013,0,1,1,1,419,0.787,3,8,3,0,6.55
+56,Ben Roberto,34,Nigerian,Dynamo FC,GK,2022-23,33,1789,0,0,1,0,629,0.665,2,25,2,1,5.07
+57,Artur Costa,19,Senegalese,Dynamo FC,DEF,2022-23,30,2137,3,1,4,3,802,0.832,15,71,6,1,5.32
+58,Felix Castro,22,English,Dynamo FC,DEF,2022-23,14,1001,3,3,7,7,755,0.819,6,82,3,0,7.29
+59,Luca Mensah,19,German,Dynamo FC,DEF,2022-23,31,2754,3,7,19,12,657,0.808,18,52,7,1,5.89
+60,Takuya Moura,23,Argentine,Dynamo FC,DEF,2022-23,28,1870,0,5,10,7,736,0.792,13,83,5,0,6.19
+61,Mohamed Thiago,28,Dutch,Dynamo FC,DEF,2022-23,25,2232,1,4,14,2,714,0.843,10,47,7,0,5.68
+62,Ronan Diallo,23,Dutch,Dynamo FC,DEF,2022-23,21,1489,5,1,21,9,652,0.81,16,52,4,1,6.24
+63,David Romero,19,Italian,Dynamo FC,MID,2022-23,33,1688,9,16,15,11,867,0.818,59,26,1,0,8.08
+64,Alexei Johnson,33,English,Dynamo FC,MID,2022-23,28,1787,12,15,69,25,763,0.833,68,62,0,0,8.94
+65,Diego Xavi,23,Japanese,Dynamo FC,MID,2022-23,32,2308,10,14,30,20,995,0.846,50,68,2,0,8.27
+66,James Berg,21,French,Dynamo FC,MID,2022-23,19,1339,2,8,56,25,945,0.8,70,52,1,1,6.06
+67,Gabriel Müller,24,Brazilian,Dynamo FC,MID,2022-23,26,1476,3,5,52,19,1145,0.923,57,53,0,1,6.34
+68,Ethan Ramos,25,Argentine,Dynamo FC,MID,2022-23,13,647,9,9,26,9,916,0.886,54,61,0,0,8.23
+69,Emil Salah,18,Nigerian,Dynamo FC,FWD,2022-23,14,1146,7,12,63,57,301,0.75,38,9,3,0,6.7
+70,Eric Kroos,35,Argentine,Dynamo FC,FWD,2022-23,28,1432,12,9,74,60,502,0.639,35,28,2,1,6.35
+71,Nathan Kane,27,French,Dynamo FC,FWD,2022-23,32,2533,7,6,99,12,399,0.675,44,16,6,0,5.62
+72,Paulo Xavi,33,Belgian,Dynamo FC,FWD,2022-23,37,1750,28,10,43,34,600,0.66,40,26,1,0,8.38
+73,Koen Kroos,34,Spanish,Red Star SC,GK,2022-23,25,1260,0,0,2,1,627,0.815,2,22,6,1,5.0
+74,Luca Cafu,29,German,Red Star SC,GK,2022-23,31,2573,1,0,2,1,402,0.656,2,7,3,1,5.93
+75,Ben Benzema,26,Portuguese,Red Star SC,DEF,2022-23,24,1163,4,2,11,5,682,0.793,11,44,7,0,6.23
+76,Sam Mensah,33,French,Red Star SC,DEF,2022-23,15,1208,0,4,19,0,515,0.797,16,31,6,0,5.42
+77,Ryan Petit,18,Dutch,Red Star SC,DEF,2022-23,21,1880,2,6,14,3,595,0.864,11,75,3,0,7.45
+78,Victor Johnson,34,Dutch,Red Star SC,DEF,2022-23,28,1766,4,3,19,11,735,0.897,14,59,0,0,8.19
+79,Alex Fonseca,25,Brazilian,Red Star SC,DEF,2022-23,18,1233,0,5,18,2,641,0.773,22,33,1,1,5.8
+80,Sam Cafu,20,Portuguese,Red Star SC,DEF,2022-23,16,750,0,4,15,8,898,0.789,28,33,3,0,6.1
+81,Owen Okafor,31,Spanish,Red Star SC,MID,2022-23,37,2993,5,12,69,10,994,0.912,60,43,2,1,6.5
+82,Carlos Vidal,20,Japanese,Red Star SC,MID,2022-23,24,2148,7,5,13,9,771,0.921,68,70,4,1,6.05
+83,Ethan Cruz,18,Brazilian,Red Star SC,MID,2022-23,21,989,9,11,50,25,958,0.904,19,24,5,0,6.91
+84,Nico Andersen,33,Brazilian,Red Star SC,MID,2022-23,34,2882,3,5,67,20,761,0.929,17,51,2,1,5.88
+85,Simon Nakamura,24,French,Red Star SC,MID,2022-23,24,1321,9,10,13,13,797,0.849,70,22,2,1,6.53
+86,Luis Ramos,33,Senegalese,Red Star SC,MID,2022-23,20,939,2,13,51,10,1162,0.878,19,30,2,1,6.07
+87,Alexei Thiago,31,Mexican,Red Star SC,FWD,2022-23,35,1972,8,8,24,23,289,0.737,56,20,4,1,5.54
+88,Max Fonseca,30,French,Red Star SC,FWD,2022-23,16,1433,20,8,64,51,517,0.75,77,7,7,1,5.22
+89,Felix Nakamura,19,German,Red Star SC,FWD,2022-23,13,903,15,13,52,20,415,0.795,59,5,2,0,7.39
+90,Leon Ramos,32,English,Red Star SC,FWD,2022-23,27,2075,13,13,108,54,555,0.756,57,11,4,0,6.93
+91,David Xavi,33,French,Northern Vale,GK,2022-23,24,2021,0,0,2,1,693,0.789,0,11,6,1,5.0
+92,Mohamed Neves,34,English,Northern Vale,GK,2022-23,15,1050,0,0,2,1,523,0.664,2,21,0,0,6.31
+93,Takuya Mota,31,German,Northern Vale,DEF,2022-23,19,1077,3,7,15,5,825,0.771,11,39,0,1,7.33
+94,Andre Neves,26,German,Northern Vale,DEF,2022-23,13,784,3,6,7,7,777,0.889,8,79,3,0,7.83
+95,Stefan Dembele,34,Mexican,Northern Vale,DEF,2022-23,28,2231,0,1,23,0,521,0.832,22,79,5,1,5.0
+96,Hugo Suarez,20,Senegalese,Northern Vale,DEF,2022-23,26,2303,3,2,5,3,506,0.732,5,35,6,0,6.0
+97,Nico Romero,18,French,Northern Vale,DEF,2022-23,30,1690,1,1,15,2,784,0.89,7,42,0,0,6.79
+98,Emil Kowalski,27,Colombian,Northern Vale,DEF,2022-23,26,2099,4,2,23,5,674,0.842,26,40,2,0,7.38
+99,Felix Busquets,20,Dutch,Northern Vale,MID,2022-23,28,2473,8,13,38,28,1002,0.843,34,25,2,0,7.55
+100,Jakub Petit,35,Colombian,Northern Vale,MID,2022-23,16,1428,1,11,69,15,861,0.812,63,44,7,1,5.0
+101,Alexei Castro,19,Colombian,Northern Vale,MID,2022-23,29,2432,11,9,70,24,1172,0.91,67,27,6,0,6.8
+102,Tom Keane,19,Belgian,Northern Vale,MID,2022-23,25,1721,7,4,38,18,880,0.917,17,39,5,0,6.35
+103,Luis Salah,18,Portuguese,Northern Vale,MID,2022-23,36,1621,7,2,53,26,927,0.864,62,41,5,0,6.17
+104,Amir Vidal,33,Argentine,Northern Vale,MID,2022-23,32,2289,8,12,22,8,771,0.85,44,37,5,0,6.93
+105,Owen Keane,20,Spanish,Northern Vale,FWD,2022-23,17,988,15,9,52,52,591,0.779,70,28,0,0,8.02
+106,Matteo Petit,30,Senegalese,Northern Vale,FWD,2022-23,23,2056,17,6,105,44,347,0.696,59,22,3,0,6.98
+107,Cian Santos,21,Japanese,Northern Vale,FWD,2022-23,13,897,11,13,49,43,276,0.637,41,11,1,1,6.46
+108,Ryan Silva,25,Mexican,Northern Vale,FWD,2022-23,18,972,28,2,42,29,305,0.657,68,12,2,0,7.19
+109,Toni Andersen,29,French,Coastal FC,GK,2022-23,14,1194,0,1,0,0,658,0.754,0,22,3,1,5.99
+110,Yusuf Novak,19,Spanish,Coastal FC,GK,2022-23,19,1465,1,1,2,1,410,0.789,2,15,3,1,7.42
+111,Kevin Castro,34,Brazilian,Coastal FC,DEF,2022-23,15,1078,5,1,7,7,796,0.75,18,40,1,1,6.75
+112,Adam Fernandez,32,Italian,Coastal FC,DEF,2022-23,23,1290,4,0,16,6,621,0.779,18,65,4,1,5.82
+113,Amir Xavi,22,English,Coastal FC,DEF,2022-23,34,2193,2,3,19,7,710,0.761,28,70,2,0,7.04
+114,Kenji Falcao,29,Senegalese,Coastal FC,DEF,2022-23,21,1326,4,4,25,4,890,0.803,25,60,1,0,8.03
+115,David Guerreiro,21,Italian,Coastal FC,DEF,2022-23,35,2245,3,3,14,6,651,0.818,23,61,0,1,6.9
+116,Rui Benzema,32,French,Coastal FC,DEF,2022-23,37,2872,3,1,17,4,761,0.838,23,80,1,1,6.52
+117,Elias Salah,33,Japanese,Coastal FC,MID,2022-23,23,1432,2,9,30,16,924,0.8,22,55,7,1,5.0
+118,Mehdi Xavi,27,Mexican,Coastal FC,MID,2022-23,34,2497,14,15,15,14,992,0.908,59,60,5,1,7.2
+119,Henri Diallo,22,Belgian,Coastal FC,MID,2022-23,26,1863,7,10,29,8,930,0.805,39,47,1,0,7.62
+120,Hugo Castro,26,Senegalese,Coastal FC,MID,2022-23,16,726,1,9,21,4,1000,0.816,45,30,1,0,6.73
+121,Hugo Silva,18,Colombian,Coastal FC,MID,2022-23,33,1737,10,14,19,18,956,0.847,22,62,3,0,7.99
+122,Pierre Benzema,33,Portuguese,Coastal FC,MID,2022-23,36,1890,4,13,66,14,1120,0.834,26,56,0,0,7.84
+123,Jake Vieira,18,Japanese,Coastal FC,FWD,2022-23,35,2843,30,6,90,49,569,0.837,28,9,3,1,6.63
+124,Noah Rossi,20,Senegalese,Coastal FC,FWD,2022-23,12,605,8,5,78,12,360,0.732,33,16,1,1,5.88
+125,Gabriel Becker,22,Italian,Coastal FC,FWD,2022-23,32,2131,29,11,117,46,484,0.811,50,28,6,0,7.6
+126,Oscar Dembele,31,Senegalese,Coastal FC,FWD,2022-23,29,1752,8,4,42,23,433,0.781,27,22,4,0,6.22
+127,David Zola,34,Mexican,Iron Bridge FC,GK,2022-23,34,2559,1,1,1,1,385,0.693,0,15,1,1,7.76
+128,Jakub Romero,22,Senegalese,Iron Bridge FC,GK,2022-23,29,1623,1,1,1,1,531,0.781,2,12,0,1,8.0
+129,Toni Moura,33,German,Iron Bridge FC,DEF,2022-23,15,1131,2,6,17,6,803,0.837,30,57,1,1,6.84
+130,Noah Cruz,18,Mexican,Iron Bridge FC,DEF,2022-23,17,1008,0,0,17,12,572,0.736,13,40,3,1,5.0
+131,Leon Pinto,27,Italian,Iron Bridge FC,DEF,2022-23,17,1015,5,2,10,6,581,0.878,27,48,4,0,7.34
+132,David Cruz,19,Brazilian,Iron Bridge FC,DEF,2022-23,12,604,5,6,25,11,564,0.786,11,44,4,0,7.85
+133,Nathan Taylor,18,Dutch,Iron Bridge FC,DEF,2022-23,36,2586,0,2,13,5,766,0.829,18,43,1,1,5.45
+134,David Vieira,21,Dutch,Iron Bridge FC,DEF,2022-23,25,1688,4,1,11,11,616,0.866,29,41,4,1,5.9
+135,Toni Thiago,19,English,Iron Bridge FC,MID,2022-23,27,1919,12,5,26,22,1131,0.862,60,69,3,0,7.66
+136,Eric Benzema,29,Spanish,Iron Bridge FC,MID,2022-23,22,1008,7,12,64,22,1002,0.791,29,44,3,0,7.27
+137,Sam Xavi,18,English,Iron Bridge FC,MID,2022-23,30,1431,5,14,31,23,989,0.805,18,67,4,1,6.3
+138,Dante Giggs,22,Senegalese,Iron Bridge FC,MID,2022-23,25,1470,12,4,19,19,805,0.872,32,21,0,0,7.81
+139,Nico Salah,27,Nigerian,Iron Bridge FC,MID,2022-23,15,1230,14,12,20,20,807,0.807,27,50,6,0,7.46
+140,Takuya Dembele,30,Senegalese,Iron Bridge FC,MID,2022-23,35,2824,13,11,68,16,783,0.853,21,20,3,1,6.81
+141,Nathan Pirlo,19,Japanese,Iron Bridge FC,FWD,2022-23,24,1763,29,13,50,50,476,0.815,28,30,0,0,9.16
+142,Dante Litmanen,20,Argentine,Iron Bridge FC,FWD,2022-23,21,1110,27,13,68,34,351,0.698,45,9,3,1,6.87
+143,Luis Moura,25,Japanese,Iron Bridge FC,FWD,2022-23,35,2870,30,7,103,54,345,0.789,29,5,6,1,5.89
+144,Gabriel Taylor,19,French,Iron Bridge FC,FWD,2022-23,16,840,5,12,117,37,318,0.738,41,20,4,0,6.61
+145,Ethan Santos,21,Belgian,Summit City,GK,2022-23,14,1012,1,0,2,1,377,0.757,0,6,7,0,6.01
+146,Hugo Litmanen,30,Nigerian,Summit City,GK,2022-23,18,1373,0,1,1,0,466,0.773,2,11,7,1,5.0
+147,Owen Modric,21,Portuguese,Summit City,DEF,2022-23,25,1242,1,5,11,7,608,0.734,12,66,0,1,6.54
+148,Jordan Kroos,21,Belgian,Summit City,DEF,2022-23,14,882,0,2,7,0,695,0.8,6,89,4,1,5.09
+149,Ben García,20,English,Summit City,DEF,2022-23,32,1830,1,2,23,12,880,0.802,26,35,1,0,6.58
+150,Alex Okafor,34,Argentine,Summit City,DEF,2022-23,23,1720,0,2,3,2,785,0.78,26,73,1,1,5.62
+151,Kevin Petit,22,Senegalese,Summit City,DEF,2022-23,16,846,0,6,17,9,657,0.801,20,41,0,1,6.27
+152,Artur Thiago,30,Argentine,Summit City,DEF,2022-23,23,2050,2,7,14,8,847,0.895,26,34,3,1,6.44
+153,Matteo Neves,26,Mexican,Summit City,MID,2022-23,35,2425,9,15,30,28,1153,0.819,22,58,7,0,6.97
+154,Luis Roberto,33,Portuguese,Summit City,MID,2022-23,32,2629,6,5,43,34,841,0.798,37,69,4,1,5.79
+155,Alexei Lopez,34,Brazilian,Summit City,MID,2022-23,20,978,11,10,19,11,1030,0.904,37,45,3,1,6.82
+156,Ibrahim Mane,29,Portuguese,Summit City,MID,2022-23,34,1777,6,12,24,10,943,0.811,61,68,1,1,6.96
+157,Paulo Mota,31,Colombian,Summit City,MID,2022-23,29,2124,14,9,55,27,833,0.801,21,33,0,0,8.43
+158,Victor Mensah,32,German,Summit City,MID,2022-23,32,1472,11,3,45,28,905,0.926,24,44,1,0,7.69
+159,David Neves,29,Portuguese,Summit City,FWD,2022-23,33,1950,16,1,99,18,589,0.652,72,6,7,0,5.21
+160,Victor Iniesta,21,German,Summit City,FWD,2022-23,13,881,17,4,64,28,487,0.647,47,17,6,1,5.07
+161,Yusuf Becker,24,Japanese,Summit City,FWD,2022-23,31,2008,30,6,61,58,242,0.756,79,27,2,0,8.07
+162,Hugo Keane,24,Mexican,Summit City,FWD,2022-23,30,2111,4,10,108,5,581,0.839,80,28,6,0,6.24
+163,Nathan Busquets,22,French,Riverside Athletic,GK,2022-23,34,1895,0,0,0,0,455,0.702,2,11,7,1,5.0
+164,Yusuf Dembele,28,Nigerian,Riverside Athletic,GK,2022-23,12,815,0,1,0,0,400,0.755,3,24,3,1,6.05
+165,Emil Zola,29,Portuguese,Riverside Athletic,DEF,2022-23,17,1090,4,3,6,6,654,0.795,18,36,4,0,7.01
+166,Marco Busquets,29,English,Riverside Athletic,DEF,2022-23,33,2916,1,5,22,6,729,0.767,14,52,1,1,6.25
+167,Max Santos,31,Japanese,Riverside Athletic,DEF,2022-23,18,1311,4,4,21,8,680,0.864,17,61,3,0,7.66
+168,Jake Keane,26,Spanish,Riverside Athletic,DEF,2022-23,14,797,2,6,22,5,755,0.738,30,33,1,1,6.55
+169,Tom Busquets,19,German,Riverside Athletic,DEF,2022-23,27,2110,2,0,21,7,541,0.861,17,78,0,1,6.28
+170,Owen Pinto,23,French,Riverside Athletic,DEF,2022-23,28,2089,0,0,3,3,547,0.766,14,79,1,1,5.33
+171,Kenji Cafu,30,English,Riverside Athletic,MID,2022-23,19,1249,11,8,44,18,1142,0.848,63,34,0,1,7.18
+172,Alexei Romero,34,Colombian,Riverside Athletic,MID,2022-23,34,2323,3,6,41,3,786,0.882,27,27,0,0,7.01
+173,Paulo Kowalski,30,Brazilian,Riverside Athletic,MID,2022-23,22,1642,3,9,44,26,716,0.923,35,59,1,0,7.35
+174,Alex Fernandez,29,Italian,Riverside Athletic,MID,2022-23,25,2240,4,16,28,10,1198,0.808,57,24,4,1,5.92
+175,Noah Vargas,27,Belgian,Riverside Athletic,MID,2022-23,33,2620,10,7,56,25,919,0.915,22,59,0,0,8.22
+176,Henri Guerreiro,20,Japanese,Riverside Athletic,MID,2022-23,13,975,3,2,45,6,777,0.79,39,69,1,0,6.81
+177,Oliver Litmanen,25,Japanese,Riverside Athletic,FWD,2022-23,15,872,10,2,32,30,359,0.785,51,6,2,1,5.35
+178,Ethan Guerreiro,18,French,Riverside Athletic,FWD,2022-23,26,1299,20,7,92,44,514,0.741,77,29,1,1,6.97
+179,Oliver Mota,34,Portuguese,Riverside Athletic,FWD,2022-23,31,1730,23,12,54,41,373,0.623,40,7,1,1,6.91
+180,Simon Ramos,23,German,Riverside Athletic,FWD,2022-23,34,2875,14,9,66,31,348,0.786,40,12,5,1,5.59
+1,Noah Romero,32,Nigerian,FC Zenith,GK,2023-24,25,1998,1,1,1,1,555,0.743,2,17,1,1,7.87
+2,Kenji Nguyen,24,Belgian,FC Zenith,GK,2023-24,32,2485,0,1,2,0,387,0.708,1,15,4,0,6.43
+3,Henri Castro,28,Nigerian,FC Zenith,DEF,2023-24,12,814,5,2,11,8,866,0.878,9,76,7,1,5.98
+4,Stefan Falcao,21,Dutch,FC Zenith,DEF,2023-24,37,1680,0,3,6,2,887,0.738,14,63,2,0,6.33
+5,Stefan Müller,19,Dutch,FC Zenith,DEF,2023-24,21,1646,5,6,6,5,611,0.861,24,65,5,1,6.97
+6,Takuya Kane,23,Spanish,FC Zenith,DEF,2023-24,37,3063,3,0,16,11,876,0.842,20,80,6,0,6.14
+7,Zach Nguyen,18,Senegalese,FC Zenith,DEF,2023-24,17,1435,4,1,7,6,880,0.836,14,53,5,0,6.63
+8,Cian Reyes,29,Portuguese,FC Zenith,DEF,2023-24,37,2316,4,5,11,10,701,0.832,8,89,0,0,8.67
+9,Artur Vargas,27,Senegalese,FC Zenith,MID,2023-24,31,1956,7,5,38,20,702,0.79,30,23,7,1,5.0
+10,Zach Becker,32,Mexican,FC Zenith,MID,2023-24,35,2640,2,4,40,20,1004,0.875,33,41,7,0,5.31
+11,Sven Herrera,29,Argentine,FC Zenith,MID,2023-24,23,1847,6,6,40,9,891,0.858,59,55,5,0,6.47
+12,Victor Kroos,20,German,FC Zenith,MID,2023-24,28,1806,2,16,61,29,950,0.895,68,64,0,0,7.97
+13,Dante Santos,26,Argentine,FC Zenith,MID,2023-24,17,1251,11,16,16,16,823,0.838,23,45,7,0,7.16
+14,Emil Dubois,31,Spanish,FC Zenith,MID,2023-24,36,2536,10,3,12,10,806,0.784,68,64,5,0,6.71
+15,Cian García,19,Brazilian,FC Zenith,FWD,2023-24,24,1925,21,10,55,46,268,0.805,56,24,0,0,8.35
+16,Eric Zola,24,Senegalese,FC Zenith,FWD,2023-24,21,1830,6,6,109,9,325,0.78,69,7,0,1,5.93
+17,Kenji Zola,20,Mexican,FC Zenith,FWD,2023-24,36,1631,11,6,65,54,387,0.708,39,28,0,1,6.59
+18,Luis Cruz,35,Dutch,FC Zenith,FWD,2023-24,32,1539,14,10,49,35,419,0.681,74,18,7,1,5.23
+19,Mohamed Costa,23,Italian,Athletic United,GK,2023-24,27,1666,0,1,0,0,504,0.696,0,17,3,1,5.79
+20,Adam Dubois,35,Belgian,Athletic United,GK,2023-24,22,1052,1,0,1,1,320,0.741,0,11,5,0,6.58
+21,Takuya Alves,27,Mexican,Athletic United,DEF,2023-24,26,1195,2,3,25,8,653,0.795,18,86,4,1,5.85
+22,Alex Andersen,33,Colombian,Athletic United,DEF,2023-24,32,1809,2,6,6,2,870,0.895,16,86,4,0,7.35
+23,Kenji Andersen,25,German,Athletic United,DEF,2023-24,12,621,3,6,12,11,826,0.843,5,46,7,0,6.63
+24,Toni Vieira,35,Colombian,Athletic United,DEF,2023-24,13,821,2,0,8,7,676,0.818,10,75,5,1,5.09
+25,Hugo Petit,30,Portuguese,Athletic United,DEF,2023-24,12,771,4,1,25,12,565,0.738,20,77,2,0,7.38
+26,Owen Novak,30,English,Athletic United,DEF,2023-24,18,1251,5,3,14,7,691,0.863,21,61,6,0,7.14
+27,Matteo Santos,26,Dutch,Athletic United,MID,2023-24,31,2155,4,15,61,25,842,0.811,35,34,5,1,5.72
+28,Luca Scholes,25,Dutch,Athletic United,MID,2023-24,25,1393,9,9,67,34,1068,0.784,39,22,7,1,5.26
+29,Finn Herrera,34,Dutch,Athletic United,MID,2023-24,12,750,3,7,48,25,788,0.84,57,38,4,0,6.24
+30,Sam Neves,18,Nigerian,Athletic United,MID,2023-24,22,1191,10,9,33,18,863,0.821,22,28,6,0,6.6
+31,David Keane,24,Belgian,Athletic United,MID,2023-24,27,2304,2,11,69,21,1153,0.899,21,35,2,0,6.9
+32,Ethan Mota,24,Portuguese,Athletic United,MID,2023-24,14,1195,11,9,48,11,919,0.81,22,56,7,1,5.85
+33,Kenji Martin,19,English,Athletic United,FWD,2023-24,27,1399,6,14,89,51,445,0.809,28,16,2,1,6.36
+34,Koen Thiago,22,French,Athletic United,FWD,2023-24,34,3009,15,7,40,27,361,0.657,57,30,6,0,6.41
+35,Takuya Salah,20,English,Athletic United,FWD,2023-24,34,1728,7,9,22,7,395,0.778,53,30,5,1,5.62
+36,Sam Pinto,32,Mexican,Athletic United,FWD,2023-24,16,1420,30,13,38,33,333,0.776,63,29,2,1,7.8
+37,James Silva,22,Belgian,City Rovers,GK,2023-24,26,1932,0,0,1,1,430,0.8,1,20,4,1,5.0
+38,Elias Andersen,24,Nigerian,City Rovers,GK,2023-24,35,1712,0,0,2,1,333,0.709,2,22,1,0,6.17
+39,Diego Novak,32,Belgian,City Rovers,DEF,2023-24,36,2325,5,0,9,8,638,0.872,7,62,3,0,7.35
+40,Adam Xavi,30,French,City Rovers,DEF,2023-24,27,1344,2,7,25,8,700,0.838,5,37,6,0,6.63
+41,Kevin Guerreiro,34,Brazilian,City Rovers,DEF,2023-24,14,1067,0,6,7,6,690,0.732,29,82,4,1,5.6
+42,Kevin Dubois,22,Argentine,City Rovers,DEF,2023-24,31,2703,3,0,9,3,854,0.731,19,47,2,0,6.67
+43,Noah Vieira,32,Nigerian,City Rovers,DEF,2023-24,17,1278,2,2,3,3,545,0.803,8,82,7,1,5.0
+44,Owen Cruz,30,Argentine,City Rovers,DEF,2023-24,14,890,5,2,24,5,780,0.796,18,55,5,0,7.08
+45,Ronan Herrera,19,Belgian,City Rovers,MID,2023-24,33,2759,3,15,60,5,1125,0.885,42,39,4,0,6.86
+46,Rui Kroos,23,Senegalese,City Rovers,MID,2023-24,25,1942,11,13,65,35,974,0.911,28,57,4,0,7.83
+47,Eric Scholes,29,Brazilian,City Rovers,MID,2023-24,15,740,14,10,46,33,788,0.904,67,54,0,0,8.82
+48,Leon Johnson,24,Mexican,City Rovers,MID,2023-24,25,1961,4,12,13,11,701,0.88,60,41,0,1,6.78
+49,Nico Silva,30,Portuguese,City Rovers,MID,2023-24,34,2342,14,2,61,25,734,0.82,60,69,4,0,7.4
+50,James Guerreiro,23,Dutch,City Rovers,MID,2023-24,32,1531,4,6,12,4,1200,0.794,23,23,2,0,6.54
+51,Tom García,22,English,City Rovers,FWD,2023-24,13,1099,3,8,64,25,531,0.82,65,19,6,0,5.8
+52,Dante Keane,29,Dutch,City Rovers,FWD,2023-24,30,2554,24,8,44,42,237,0.75,48,23,3,0,7.59
+53,Sergio Iniesta,26,Brazilian,City Rovers,FWD,2023-24,18,916,6,6,95,50,266,0.763,21,28,1,0,7.06
+54,Artur Roberto,29,Mexican,City Rovers,FWD,2023-24,34,3035,10,7,57,15,413,0.676,36,16,5,1,5.18
+55,Noah Costa,20,English,Dynamo FC,GK,2023-24,19,1059,1,0,1,1,392,0.73,2,12,5,0,6.6
+56,Ben Roberto,34,Nigerian,Dynamo FC,GK,2023-24,27,1556,1,0,1,1,488,0.651,1,21,5,1,5.85
+57,Artur Costa,19,Senegalese,Dynamo FC,DEF,2023-24,22,1825,0,1,8,4,744,0.823,14,72,5,1,5.0
+58,Felix Castro,22,English,Dynamo FC,DEF,2023-24,20,1257,4,0,12,4,843,0.816,11,84,0,0,7.81
+59,Luca Mensah,19,German,Dynamo FC,DEF,2023-24,24,1809,5,2,15,9,626,0.769,5,69,3,0,7.6
+60,Takuya Moura,23,Argentine,Dynamo FC,DEF,2023-24,23,1948,4,4,16,4,800,0.849,30,34,7,0,6.54
+61,Mohamed Thiago,28,Dutch,Dynamo FC,DEF,2023-24,25,1182,4,6,20,7,837,0.766,8,59,0,0,8.53
+62,Ronan Diallo,23,Dutch,Dynamo FC,DEF,2023-24,15,924,2,6,9,5,612,0.733,30,80,6,0,6.67
+63,David Romero,19,Italian,Dynamo FC,MID,2023-24,18,1144,13,10,22,14,1006,0.869,24,33,1,0,8.24
+64,Alexei Johnson,33,English,Dynamo FC,MID,2023-24,33,1656,7,13,12,10,1153,0.798,16,48,5,0,6.94
+65,Diego Xavi,23,Japanese,Dynamo FC,MID,2023-24,27,2419,2,2,50,13,1118,0.847,69,64,6,1,5.0
+66,James Berg,21,French,Dynamo FC,MID,2023-24,16,808,1,16,40,25,978,0.903,52,47,4,1,5.91
+67,Gabriel Müller,24,Brazilian,Dynamo FC,MID,2023-24,22,1415,3,14,64,11,1136,0.909,44,63,1,1,6.83
+68,Ethan Ramos,25,Argentine,Dynamo FC,MID,2023-24,14,913,12,16,52,34,1059,0.913,46,55,3,0,8.36
+69,Emil Salah,18,Nigerian,Dynamo FC,FWD,2023-24,35,2164,26,12,62,32,395,0.63,20,5,6,1,5.9
+70,Eric Kroos,35,Argentine,Dynamo FC,FWD,2023-24,30,1384,30,2,64,40,325,0.751,68,10,7,0,6.23
+71,Nathan Kane,27,French,Dynamo FC,FWD,2023-24,19,1166,22,8,97,59,520,0.643,68,17,1,0,7.68
+72,Paulo Xavi,33,Belgian,Dynamo FC,FWD,2023-24,35,3114,5,11,64,8,353,0.629,73,15,7,0,5.62
+73,Koen Kroos,34,Spanish,Red Star SC,GK,2023-24,21,1318,1,0,1,1,698,0.733,1,9,1,0,7.42
+74,Luca Cafu,29,German,Red Star SC,GK,2023-24,16,1408,0,0,2,1,495,0.819,0,21,4,0,5.59
+75,Ben Benzema,26,Portuguese,Red Star SC,DEF,2023-24,26,1347,0,4,17,5,567,0.896,13,78,4,1,5.44
+76,Sam Mensah,33,French,Red Star SC,DEF,2023-24,24,1902,2,6,20,4,541,0.869,17,80,1,0,7.95
+77,Ryan Petit,18,Dutch,Red Star SC,DEF,2023-24,32,1933,3,4,14,9,823,0.783,28,90,2,0,7.69
+78,Victor Johnson,34,Dutch,Red Star SC,DEF,2023-24,26,2125,3,2,19,5,751,0.774,26,86,7,1,5.31
+79,Alex Fonseca,25,Brazilian,Red Star SC,DEF,2023-24,30,1621,4,7,8,4,600,0.818,23,56,4,1,6.93
+80,Sam Cafu,20,Portuguese,Red Star SC,DEF,2023-24,22,1339,3,5,23,8,894,0.819,9,46,7,1,5.54
+81,Owen Okafor,31,Spanish,Red Star SC,MID,2023-24,20,1689,12,7,28,27,807,0.853,46,25,6,0,6.69
+82,Carlos Vidal,20,Japanese,Red Star SC,MID,2023-24,37,2483,11,2,34,33,1098,0.871,65,69,0,0,8.02
+83,Ethan Cruz,18,Brazilian,Red Star SC,MID,2023-24,32,2852,2,13,60,5,1090,0.923,62,28,7,1,5.0
+84,Nico Andersen,33,Brazilian,Red Star SC,MID,2023-24,24,1554,1,2,41,8,846,0.827,17,24,4,0,5.51
+85,Simon Nakamura,24,French,Red Star SC,MID,2023-24,25,1373,7,3,41,28,1048,0.785,17,29,1,1,6.04
+86,Luis Ramos,33,Senegalese,Red Star SC,MID,2023-24,32,1956,2,10,33,4,883,0.859,44,66,2,0,7.08
+87,Alexei Thiago,31,Mexican,Red Star SC,FWD,2023-24,29,2188,19,8,90,48,334,0.63,55,29,4,0,7.1
+88,Max Fonseca,30,French,Red Star SC,FWD,2023-24,26,1337,10,8,24,21,327,0.798,20,8,2,1,5.9
+89,Felix Nakamura,19,German,Red Star SC,FWD,2023-24,19,1196,4,14,97,7,557,0.687,27,7,5,1,5.24
+90,Leon Ramos,32,English,Red Star SC,FWD,2023-24,24,2103,4,13,80,22,322,0.811,21,12,0,0,7.44
+91,David Xavi,33,French,Northern Vale,GK,2023-24,13,1049,1,1,2,1,621,0.662,0,19,6,1,6.71
+92,Mohamed Neves,34,English,Northern Vale,GK,2023-24,13,749,1,0,2,1,419,0.719,2,11,4,0,6.78
+93,Takuya Mota,31,German,Northern Vale,DEF,2023-24,12,836,5,4,17,9,552,0.795,29,51,6,0,7.14
+94,Andre Neves,26,German,Northern Vale,DEF,2023-24,34,2299,5,1,14,8,553,0.733,22,43,1,1,6.76
+95,Stefan Dembele,34,Mexican,Northern Vale,DEF,2023-24,25,2050,5,5,8,5,558,0.86,22,41,6,0,7.3
+96,Hugo Suarez,20,Senegalese,Northern Vale,DEF,2023-24,25,2117,1,6,12,9,703,0.792,29,60,0,1,6.72
+97,Nico Romero,18,French,Northern Vale,DEF,2023-24,37,2855,5,5,21,11,587,0.871,13,35,4,1,6.82
+98,Emil Kowalski,27,Colombian,Northern Vale,DEF,2023-24,36,1753,3,2,3,3,606,0.769,6,73,3,1,6.1
+99,Felix Busquets,20,Dutch,Northern Vale,MID,2023-24,29,2468,13,4,61,18,811,0.92,65,56,0,1,7.42
+100,Jakub Petit,35,Colombian,Northern Vale,MID,2023-24,34,2285,1,13,36,25,819,0.881,61,42,4,0,6.52
+101,Alexei Castro,19,Colombian,Northern Vale,MID,2023-24,22,1649,1,9,53,11,972,0.881,39,49,0,0,7.21
+102,Tom Keane,19,Belgian,Northern Vale,MID,2023-24,31,2485,12,6,53,28,800,0.855,53,47,7,0,6.61
+103,Luis Salah,18,Portuguese,Northern Vale,MID,2023-24,14,918,2,15,44,8,1188,0.808,51,32,3,0,6.82
+104,Amir Vidal,33,Argentine,Northern Vale,MID,2023-24,13,709,9,7,20,14,1139,0.877,50,64,6,0,6.76
+105,Owen Keane,20,Spanish,Northern Vale,FWD,2023-24,24,1398,26,8,32,29,473,0.782,25,16,3,0,7.57
+106,Matteo Petit,30,Senegalese,Northern Vale,FWD,2023-24,19,1255,3,4,40,37,212,0.633,73,26,1,0,6.55
+107,Cian Santos,21,Japanese,Northern Vale,FWD,2023-24,23,1138,12,14,32,16,301,0.694,41,21,3,1,6.43
+108,Ryan Silva,25,Mexican,Northern Vale,FWD,2023-24,21,974,5,6,36,16,381,0.679,48,15,0,1,5.95
+109,Toni Andersen,29,French,Coastal FC,GK,2023-24,37,2529,1,0,2,1,418,0.782,2,21,7,1,5.55
+110,Yusuf Novak,19,Spanish,Coastal FC,GK,2023-24,37,3092,1,0,2,1,486,0.715,0,6,4,1,5.74
+111,Kevin Castro,34,Brazilian,Coastal FC,DEF,2023-24,18,824,4,0,4,4,554,0.813,24,86,5,1,5.79
+112,Adam Fernandez,32,Italian,Coastal FC,DEF,2023-24,27,1905,4,3,16,10,727,0.872,13,61,2,1,6.83
+113,Amir Xavi,22,English,Coastal FC,DEF,2023-24,12,867,4,5,7,7,694,0.848,6,63,3,0,7.82
+114,Kenji Falcao,29,Senegalese,Coastal FC,DEF,2023-24,26,1239,3,1,6,4,603,0.89,9,85,7,1,5.27
+115,David Guerreiro,21,Italian,Coastal FC,DEF,2023-24,29,2146,3,5,11,3,558,0.851,11,71,0,1,7.34
+116,Rui Benzema,32,French,Coastal FC,DEF,2023-24,36,2885,4,2,14,8,859,0.883,15,72,0,0,8.11
+117,Elias Salah,33,Japanese,Coastal FC,MID,2023-24,26,2243,8,7,69,32,746,0.789,60,69,1,0,7.72
+118,Mehdi Xavi,27,Mexican,Coastal FC,MID,2023-24,29,1315,4,10,20,4,1133,0.825,48,34,7,0,5.83
+119,Henri Diallo,22,Belgian,Coastal FC,MID,2023-24,37,2796,5,7,47,34,785,0.894,28,29,5,0,6.22
+120,Hugo Castro,26,Senegalese,Coastal FC,MID,2023-24,14,734,13,9,56,25,934,0.881,31,67,2,0,8.28
+121,Hugo Silva,18,Colombian,Coastal FC,MID,2023-24,29,2419,12,13,17,12,971,0.875,62,45,5,0,7.56
+122,Pierre Benzema,33,Portuguese,Coastal FC,MID,2023-24,23,1303,9,3,28,14,1073,0.782,20,23,3,0,6.65
+123,Jake Vieira,18,Japanese,Coastal FC,FWD,2023-24,13,993,13,5,99,14,446,0.706,61,12,5,1,5.12
+124,Noah Rossi,20,Senegalese,Coastal FC,FWD,2023-24,15,841,3,11,58,19,386,0.831,69,26,4,1,5.76
+125,Gabriel Becker,22,Italian,Coastal FC,FWD,2023-24,23,1047,12,4,120,39,355,0.67,62,25,7,1,5.0
+126,Oscar Dembele,31,Senegalese,Coastal FC,FWD,2023-24,19,1580,10,11,41,14,354,0.626,22,16,4,0,6.57
+127,David Zola,34,Mexican,Iron Bridge FC,GK,2023-24,21,1796,1,1,1,1,454,0.812,0,11,0,0,8.91
+128,Jakub Romero,22,Senegalese,Iron Bridge FC,GK,2023-24,31,1521,1,0,1,1,412,0.726,1,18,0,1,6.98
+129,Toni Moura,33,German,Iron Bridge FC,DEF,2023-24,24,1351,3,4,20,6,613,0.882,30,74,3,1,6.56
+130,Noah Cruz,18,Mexican,Iron Bridge FC,DEF,2023-24,34,2304,2,0,10,6,877,0.892,26,63,7,0,5.53
+131,Leon Pinto,27,Italian,Iron Bridge FC,DEF,2023-24,20,1755,4,7,14,11,648,0.813,30,80,2,0,8.45
+132,David Cruz,19,Brazilian,Iron Bridge FC,DEF,2023-24,18,1534,1,7,6,5,631,0.868,24,44,1,1,6.62
+133,Nathan Taylor,18,Dutch,Iron Bridge FC,DEF,2023-24,24,1718,0,7,20,6,545,0.757,29,56,3,1,5.82
+134,David Vieira,21,Dutch,Iron Bridge FC,DEF,2023-24,26,2199,0,2,16,7,782,0.87,8,63,4,1,5.0
+135,Toni Thiago,19,English,Iron Bridge FC,MID,2023-24,35,2606,3,3,66,25,880,0.822,37,64,4,0,6.19
+136,Eric Benzema,29,Spanish,Iron Bridge FC,MID,2023-24,32,2542,9,14,66,30,1025,0.788,24,59,6,0,7.1
+137,Sam Xavi,18,English,Iron Bridge FC,MID,2023-24,17,772,4,4,60,25,1002,0.809,26,57,2,0,6.74
+138,Dante Giggs,22,Senegalese,Iron Bridge FC,MID,2023-24,15,1175,5,14,32,30,1005,0.914,51,44,7,0,6.42
+139,Nico Salah,27,Nigerian,Iron Bridge FC,MID,2023-24,30,1595,14,12,60,35,927,0.928,70,41,4,1,7.06
+140,Takuya Dembele,30,Senegalese,Iron Bridge FC,MID,2023-24,32,1655,11,8,41,20,901,0.783,48,28,0,0,7.95
+141,Nathan Pirlo,19,Japanese,Iron Bridge FC,FWD,2023-24,21,1400,19,4,67,43,322,0.787,57,21,0,0,7.68
+142,Dante Litmanen,20,Argentine,Iron Bridge FC,FWD,2023-24,36,1898,19,9,107,20,303,0.66,58,10,0,0,7.69
+143,Luis Moura,25,Japanese,Iron Bridge FC,FWD,2023-24,34,1721,27,1,60,55,272,0.696,25,24,3,0,7.15
+144,Gabriel Taylor,19,French,Iron Bridge FC,FWD,2023-24,14,704,19,12,66,19,536,0.704,34,8,7,1,5.46
+145,Ethan Santos,21,Belgian,Summit City,GK,2023-24,15,934,0,0,2,1,377,0.77,1,6,4,0,5.13
+146,Hugo Litmanen,30,Nigerian,Summit City,GK,2023-24,15,1052,0,0,1,0,467,0.659,0,9,2,1,5.0
+147,Owen Modric,21,Portuguese,Summit City,DEF,2023-24,17,855,5,2,23,8,579,0.744,14,54,3,0,7.46
+148,Jordan Kroos,21,Belgian,Summit City,DEF,2023-24,15,1096,1,7,23,3,812,0.863,11,43,7,0,6.16
+149,Ben García,20,English,Summit City,DEF,2023-24,14,1165,2,2,19,5,827,0.729,21,41,5,0,5.95
+150,Alex Okafor,34,Argentine,Summit City,DEF,2023-24,22,1179,3,0,8,3,504,0.852,18,34,5,1,5.13
+151,Kevin Petit,22,Senegalese,Summit City,DEF,2023-24,12,694,0,2,23,4,878,0.73,19,68,3,0,5.98
+152,Artur Thiago,30,Argentine,Summit City,DEF,2023-24,24,1927,5,6,23,12,809,0.828,24,58,7,1,6.43
+153,Matteo Neves,26,Mexican,Summit City,MID,2023-24,21,1809,8,11,38,17,716,0.795,19,47,5,0,6.9
+154,Luis Roberto,33,Portuguese,Summit City,MID,2023-24,16,856,4,10,58,30,876,0.84,17,29,1,0,7.15
+155,Alexei Lopez,34,Brazilian,Summit City,MID,2023-24,14,799,12,9,21,17,721,0.802,69,58,2,0,7.99
+156,Ibrahim Mane,29,Portuguese,Summit City,MID,2023-24,26,2283,11,10,64,30,807,0.849,49,66,1,1,7.41
+157,Paulo Mota,31,Colombian,Summit City,MID,2023-24,32,1461,3,7,24,12,772,0.886,62,25,0,0,7.07
+158,Victor Mensah,32,German,Summit City,MID,2023-24,15,843,2,14,13,2,782,0.796,24,34,2,1,6.08
+159,David Neves,29,Portuguese,Summit City,FWD,2023-24,30,2542,29,8,50,32,297,0.702,64,5,0,0,8.07
+160,Victor Iniesta,21,German,Summit City,FWD,2023-24,15,1306,11,4,102,11,337,0.708,64,18,1,1,5.98
+161,Yusuf Becker,24,Japanese,Summit City,FWD,2023-24,17,1512,19,10,46,40,377,0.64,78,25,6,0,6.73
+162,Hugo Keane,24,Mexican,Summit City,FWD,2023-24,26,1472,29,9,55,54,447,0.67,62,29,0,1,7.75
+163,Nathan Busquets,22,French,Riverside Athletic,GK,2023-24,29,2236,1,0,1,1,544,0.799,3,24,6,1,5.87
+164,Yusuf Dembele,28,Nigerian,Riverside Athletic,GK,2023-24,12,655,0,0,1,1,502,0.728,2,5,2,1,5.0
+165,Emil Zola,29,Portuguese,Riverside Athletic,DEF,2023-24,29,1790,1,1,7,7,774,0.809,17,85,5,0,5.9
+166,Marco Busquets,29,English,Riverside Athletic,DEF,2023-24,21,1430,2,5,9,4,708,0.886,10,72,0,0,7.97
+167,Max Santos,31,Japanese,Riverside Athletic,DEF,2023-24,28,2350,0,5,6,0,837,0.862,25,31,4,1,5.21
+168,Jake Keane,26,Spanish,Riverside Athletic,DEF,2023-24,22,1621,5,1,12,8,613,0.837,9,44,3,1,6.43
+169,Tom Busquets,19,German,Riverside Athletic,DEF,2023-24,13,877,2,1,14,5,713,0.81,15,83,7,1,5.0
+170,Owen Pinto,23,French,Riverside Athletic,DEF,2023-24,26,1498,2,5,7,3,620,0.767,10,50,7,0,6.1
+171,Kenji Cafu,30,English,Riverside Athletic,MID,2023-24,16,1286,12,6,61,18,1150,0.902,34,38,2,1,6.8
+172,Alexei Romero,34,Colombian,Riverside Athletic,MID,2023-24,16,725,12,13,38,35,933,0.86,35,43,0,0,8.65
+173,Paulo Kowalski,30,Brazilian,Riverside Athletic,MID,2023-24,34,1860,7,6,45,20,1189,0.836,53,35,0,0,7.49
+174,Alex Fernandez,29,Italian,Riverside Athletic,MID,2023-24,32,2741,6,4,54,8,738,0.809,68,24,1,0,6.87
+175,Noah Vargas,27,Belgian,Riverside Athletic,MID,2023-24,28,1694,3,15,66,24,1156,0.804,51,42,4,1,5.9
+176,Henri Guerreiro,20,Japanese,Riverside Athletic,MID,2023-24,25,1557,7,14,26,14,784,0.888,20,63,1,1,7.25
+177,Oliver Litmanen,25,Japanese,Riverside Athletic,FWD,2023-24,33,2288,19,14,51,32,321,0.698,79,23,3,1,6.85
+178,Ethan Guerreiro,18,French,Riverside Athletic,FWD,2023-24,20,1090,13,14,58,31,317,0.668,47,28,7,0,6.61
+179,Oliver Mota,34,Portuguese,Riverside Athletic,FWD,2023-24,20,1274,3,3,86,12,374,0.786,48,22,1,0,6.55
+180,Simon Ramos,23,German,Riverside Athletic,FWD,2023-24,24,2020,4,13,67,50,404,0.773,72,11,7,1,5.0
